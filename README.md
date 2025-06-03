@@ -37,4 +37,4 @@ Users can upload a dataset, select features (or use PCA), and visualize clusters
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run customer_segmentation.py
